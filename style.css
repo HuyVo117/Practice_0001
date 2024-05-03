@@ -511,4 +511,134 @@ background-color:   #C9D3D9;
 top: 654px;
 right: 74px;
 }
+.foot_1{
+display: flex;
+flex-direction: row;
+justify-content: center;
+gap: 303px;
+margin-top: -150px;
 
+}
+.area_1{
+    width: 70px;
+    height: 70px;
+    top: 1928px;
+    left: 211px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #574D9C;
+    
+}
+.area_2{
+    width: 70px;
+    height: 70px;
+    top: 1928px;
+    left: 565px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #574D9C;
+    
+}
+.area_3{
+    width: 70px;
+    height: 70px;
+    top: 1928px;
+    left: 919px;
+    gap: 0px;
+    opacity: 0px;
+ background-color: #574D9C;    
+}
+.img_a{
+    width: 20px;
+    height: 34px;
+    top: 1946px;
+    left: 236px;
+    padding: 18px 25px 18px 25px;   
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.img_b{
+    width: 32px;
+height: 36px;
+top: 1945px;
+left: 584px;
+gap: 0px;
+opacity: 0px;
+padding: 17px 19px 17px 19px;
+}
+.img_c{
+    width: 36px;
+height: 42px;
+top: 1942px;
+left: 936px;
+gap: 0px;
+opacity: 0px;
+padding: 14px 17px 14px 17px;
+
+}
+.chu{
+    display: flex;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 18.9px;
+letter-spacing: 2px;
+color: #6157AB;
+width: 209px;
+height: 19px;
+display: inline-block;
+transform: translateX(-25%) ;
+margin-top: 22px;
+font-weight: bold;
+}
+#chu_2{
+    display: inline-block; 
+    vertical-align: top;
+}
+.pp{
+position: flex;
+width: 1080px;
+height: 1014px;
+top: 2122px;
+left: 60px;
+gap: 0px;
+opacity: 0px;
+background-color: #E3E6F9;
+margin-top: 124px;
+}
+.banner_1{
+position: flex;
+width: 558px;
+height: 65px;
+font-family: Roboto;
+font-size: 51px;
+font-weight: 400;
+line-height: 64.8px;
+letter-spacing: 0.675000011920929px;
+text-align: center;
+color: #323A5B;
+justify-self: center;
+
+padding: 72px 261px 67px 261px;
+
+}
+.tt_1{
+position: flex;
+width: 440px;
+height: 168px;
+top: 2331px;
+left: 123px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 26px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.004999999888241291px;
+text-align: center;
+color: #1E2224;
+margin: 209px 581px 637px 63px;
+
+
+}
