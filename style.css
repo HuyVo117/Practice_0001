@@ -294,7 +294,7 @@
 
 .container_tong {
     width: 1080;
-    height: 3089px;
+    height: 3420px;
     background-color: #f5f4f2;
     position: relative;
     top: -1200px;
@@ -632,7 +632,7 @@
     display: inline-block;
     transform: translateX(-25%);
     margin-top: 22px;
-    font-weight: bold;
+
 }
 
 #chu_2 {
@@ -654,7 +654,7 @@
 
 .banner_1 {
     position: flex;
-    width: 558px;
+    width: 560px;
     height: 65px;
     font-family: Roboto;
     font-size: 51px;
@@ -878,7 +878,7 @@
 
 .HomeP {
     position: relative;
-    width: 167px;
+    width: fit-content;
     height: 19px;
     gap: 0px;
     opacity: 0px;
@@ -909,7 +909,7 @@
 
 .Buying {
     position: relative;
-    width: 130px;
+    width: fit-content;
     height: 19px;
     gap: 0px;
     opacity: 0px;
@@ -927,7 +927,7 @@
     position: absolute;
     width: 1080px;
     height: 1111px;
-    top: 205px;
+    top: 190px;
     left: -93px;
     gap: 0px;
     border-radius: 0px 0px 19px 19px;
@@ -1029,5 +1029,114 @@
     background-color: #FFFFFF;
     box-sizing: border-box;
     margin: 88px 164px 144px 164px;
+
+}
+
+.anhh {
+    position: relative;
+    width: 324px;
+    height: 175px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 32px 396px 436px 36px;
+
+
+}
+
+.black {
+    position: relative;
+    width: 130px;
+    height: 29px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16.5px;
+    letter-spacing: 2px;
+    text-align: left;
+    box-sizing: border-box;
+    padding: 4px 15px 8px 18px;
+    background-color: #333333;
+    color: #ECEAF8;
+    top: -469px;
+    left: 230px;
+
+
+}
+
+.Circle {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: #7569CF;
+    padding: 12px 13px 11px 13px;
+    box-sizing: border-box;
+    top: -635px;
+    left: 45px;
+
+}
+
+.tru {
+    display: flex;
+    gap: 7px;
+    box-sizing: border-box;
+    margin-top: -480px;
+    margin-left: 30px;
+
+
+
+}
+
+.ngang_5 {
+    width: 80px;
+    height: 1px;
+    box-sizing: border-box;
+    margin-top: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #C7C1F3;
+}
+
+.Homee {
+
+    width: 111px;
+    height: 30px;
+    top: 3695px;
+    left: 366px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1.100000023841858px;
+    text-align: left;
+    color: #363B3D;
+
+}
+
+.shield {
+    position: relative;
+    width: 84px;
+    height: 67px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 236px;
+    padding-top: 40px;
+
+}
+
+.ngang_6 {
+    position: relative;
+    width: 284px;
+    height: 1px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #C7C1F3;
+    margin-top: 24px;
+    margin-left: 56px;
 
 }
