@@ -1469,7 +1469,7 @@
     opacity: 0px;
     box-sizing: border-box;
     left: 60px;
-    top: 60px;
+    top: 90px;
 
 }
 
@@ -1477,12 +1477,515 @@
     display: flex;
     flex-direction: column;
 
+
 }
 
 .doc {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     flex-wrap: wrap;
     width: 1200px;
     height: 400px;
+    gap: 72px;
+    margin-left: 276px;
+    margin-top: 59px;
+}
+
+.Agentt {
+    position: relative;
+    width: 62px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.Buyingg {
+    position: relative;
+    width: 55px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Listingg {
+    position: relative;
+    width: 54px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.ios {
+    position: relative;
+    width: 67px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.gett {
+    position: relative;
+    width: 109px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Homebuyerss {
+    position: relative;
+    width: 101px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.buyerss {
+    width: 55px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.buy_before {
+    position: relative;
+    width: 155px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.New {
+    position: relative;
+    width: 150px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Rescue {
+    position: relative;
+    width: 164px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Sellerss {
+    position: relative;
+    width: 54px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Partner {
+    position: relative;
+    width: 76px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+
+}
+
+.Lender {
+    position: relative;
+    width: 65px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.Builderss {
+    width: 65px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.Brokeragess {
+    position: relative;
+    width: 94px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+
+.Re {
+    position: relative;
+    width: 89px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+
+}
+
+.Pr {
+    position: relative;
+    width: 56px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.FA {
+    position: relative;
+    width: 43px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.Howw {
+    position: relative;
+    width: 106px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.Bl {
+    position: relative;
+    width: 37px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.Gu {
+    position: relative;
+    width: 57px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.We {
+    position: relative;
+    width: 77px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.AB {
+    position: relative;
+    width: 53px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.Miss {
+    position: relative;
+    width: 60px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Cul {
+    position: relative;
+    width: 62px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Car {
+    position: relative;
+    width: 65px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Pre {
+    position: relative;
+    width: 43px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Agentt .Homebuyerss .Partner .Re .AB {
+    position: relative;
+    bottom: -100px;
+}
+
+.BBB {
+    position: relative;
+    width: 202px;
+    height: 71px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 60px;
+    margin-bottom: 110px;
+}
+
+.Click {
+    position: relative;
+    width: 114px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #F5F4F2;
+    top: -110px;
+    left: 60px;
+}
+
+.Termss {
+    position: relative;
+    width: 45px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+    left: 443px;
+    bottom: 210px;
+}
+
+.Privacy {
+    position: relative;
+    width: 51px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+    left: 523px;
+    bottom: 241px;
+
+}
+
+.Copyrightt {
+    position: relative;
+    width: 350px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #E7ECEE;
+    left: 443px;
+    bottom: 240px;
+
+}
+
+.facebook {
+    position: relative;
+    width: 21px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    left: 1000px;
+    bottom: 300px;
+}
+
+.instagram {
+    position: relative;
+    width: 21px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    left: 1020px;
+    bottom: 300px;
 }
