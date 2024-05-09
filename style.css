@@ -14,18 +14,19 @@
     height: 80px;
     display: flex;
     justify-content: space-between;
-    align-items: right;
-    display: flex;
-    margin: 0 auto;
+    align-items: center;
+
+
+
 
 }
 
 #Agents {
-    position: absolute;
+    position: relative;
     width: 59px;
     height: 30px;
     top: 35px;
-    left: 568px;
+    left: 438px;
     gap: 0px;
     opacity: 0px;
     font-family: Roboto;
@@ -40,11 +41,11 @@
 }
 
 #Homebuyers {
-    position: absolute;
+    position: relative;
     width: 104px;
     height: 30px;
     top: 35px;
-    left: 695px;
+    left: 316px;
     gap: 0px;
     opacity: 0px;
     font-family: Roboto;
@@ -57,11 +58,11 @@
 }
 
 #Resources {
-    position: absolute;
+    position: relative;
     width: 85px;
     height: 30px;
     top: 35px;
-    left: 867px;
+    left: 187px;
     gap: 0px;
     opacity: 0px;
     font-family: Roboto;
@@ -74,15 +75,15 @@
 }
 
 #LogIn {
-    position: absolute;
-    width: 49px;
+    position: relative;
+    width: 50px;
     height: 30px;
     top: 35px;
-    left: 1020px;
+    left: 80px;
     gap: 0px;
     opacity: 0px;
     font-family: Roboto;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 30px;
     text-align: left;
@@ -91,11 +92,11 @@
 }
 
 #SignUp {
-    position: absolute;
+    position: relative;
     width: 158px;
     height: 54px;
-    top: 23px;
-    left: 1137px;
+    top: 35px;
+    left: -40px;
     gap: 0px;
     opacity: 0px;
     font-family: Roboto;
